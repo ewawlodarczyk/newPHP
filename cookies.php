@@ -1,0 +1,1 @@
+Serwis wykorzystuje pliki cookies. Jeżeli nie blokujesz plików, to zgadzasz się na ich użycie oraz zapisywanie w pamięci urządzenia.
