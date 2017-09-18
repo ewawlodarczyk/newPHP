@@ -2,11 +2,13 @@
 <html lang="">
 <head>
   <meta charset="utf-8">
- 
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
   <title>Buddyzm diamentowej drogi</title>
    <!-- jakiś kod do pobierania zawratosci head.php -->
 		
 		<?php include "head.php"; ?> 
+    
     
 </head>
 

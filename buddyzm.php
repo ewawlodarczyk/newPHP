@@ -7,3 +7,5 @@ Wszyscy zainteresowani buddyzmem Diamentowej Drogi spotykają się w&nbsp;nich n
 <p>W&nbsp;wielu ośrodkach odbywają się również zajęcia dotyczące buddyzmu dla uczniów liceów i&nbsp;gimnazjów, prowadzone w&nbsp;ramach lekcji etyki. Podstawową praktyką wykonywaną w&nbsp;ośrodkach jest medytacja Trzech Świateł, ułożona i&nbsp;przekazana przez <span style="color:#d20025">XVI Karmapę Rangdziung Rigpe Dordże</span> specjalnie dla ludzi Zachodu.</p>
 <p>Medytacje odbywają się regularnie kilka razy w&nbsp;tygodniu, są prowadzone po polsku i&nbsp;trwają około trzydziestu minut. Każdy, nieodpłatnie, może wziąć w&nbsp;nich udział. Nie wymagają specjalnych przygotowań.</p>
 
+<iframe width="420" height="345" style="float:center" src="https://www.youtube.com/embed/IRydSzpO3bk">
+    </iframe>
